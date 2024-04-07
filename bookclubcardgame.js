@@ -3,7 +3,7 @@ var errors = 0;
 var cardList = [
   "actual crespo island",
   "actual keeling islands",
-  "actual New Guinea",
+  "actual new guinea",
   "actual torres strait",
   "actual vanikoro",
   "the actual mediterranean"
